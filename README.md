@@ -1,31 +1,27 @@
-# Personal Portfolio Website 🌸
+# Basic Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my personal information, educational background, skills, projects, hobbies, and achievements using HTML and CSS.
+This is my first personal portfolio website, created using basic HTML as a beginner project. The main purpose of this project is to understand the fundamentals of web development and learn how to structure a webpage.
 
-## ✨ Features
+## Features
 
 - Personal introduction
-- Educational background
-- Skills and interests
-- Projects showcase
-- Certificates and achievements
-- Academic marksheets
-- Feedback form
-- Pink-themed design
-- Simple and user-friendly layout
+- Educational details
+- Photograph
+- Certificates
+- 10th and 12th marksheets
+- Skills and hobbies
+- Basic feedback form
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
-- CSS3
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 basic-portfolio-/
 │
 ├── index.html
-├── style.css
 ├── photo.jpeg
 ├── certificate.pdf
 ├── 10th.pdf
